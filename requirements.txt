@@ -1,0 +1,4 @@
+﻿flask
+pandas
+openpyxl
+python-calamine
